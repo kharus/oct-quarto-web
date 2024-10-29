@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "oct-quarto-web"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - work.qmd
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+
+

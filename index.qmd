@@ -1,0 +1,11 @@
+---
+title: "oct-quarto-web"
+---
+
+This is a Quarto website after I changed the slug
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

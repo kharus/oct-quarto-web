@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nCreated at 29 Oct 2024"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work",
+    "section": "",
+    "text": "I do a lot of Work (with big W)\n\\[E = mc^2\\]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "oct-quarto-web",
+    "section": "",
+    "text": "This is a Quarto website after I changed the slug\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
