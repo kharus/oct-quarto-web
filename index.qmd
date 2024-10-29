@@ -2,7 +2,7 @@
 title: "oct-quarto-web"
 ---
 
-This is a Quarto website after I changed the slug
+This is a Quarto website after I changed the slug 2 times
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
